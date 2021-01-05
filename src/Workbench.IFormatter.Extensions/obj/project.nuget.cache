@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6oc/z5ADvQFsLK3+7AXyoPR9EjQhjFm5r8CcK39SI6M8adgbh1bZ17RyS66GJKf1qwn8L/r4R2aNBTMgBPlmqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milsi\\Desktop\\Aplicando design patterns na prática com C#\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milsi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\milsi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

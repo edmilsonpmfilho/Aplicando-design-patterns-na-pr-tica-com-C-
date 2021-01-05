@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhZJ8Yw40S0bJu+IJ+gdpo62dPt8I6/xhYCp4JmgH2VW4uDlS+slLRRx7m1/GXHzD+Ovrq/nHNo0iLzdLq3XUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milsi\\Desktop\\Aplicando design patterns na prática com C#\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milsi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
